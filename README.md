@@ -66,4 +66,4 @@ npm run dev
 
 ---
 
-문의: [yjs1916211@gmail.com]
+개인 연락처: [yjs1916211@gmail.com]
