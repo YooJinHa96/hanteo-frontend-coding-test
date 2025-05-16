@@ -1,0 +1,726 @@
+{
+  "code": 100,
+  "message": null,
+  "resultData": [
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 77212,
+        "isShare": 1,
+        "content": {
+          "idx": 117614,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/03/19/5bd99387-1e17-449d-99b3-653940d0fa40.jpg",
+          "title": "한터글로벌, '후즈팬카페&스토어' 오픈…신개념 K컬처 복합 문화 공간",
+          "description": null,
+          "seo": "K컬처의 세계화를 선도하는 한터글로벌이 새로운 K컬처 복합 문화 공간 '후즈팬카페&스토어'를 선보인다.    세계 최대 K팝 빅데이터 기업 한터글로벌(대표 곽영호)은 \"서울 송파구 롯데월드 어드벤처 지하 1층에 '후즈팬카페&스토어'를 론칭하고, 19일 오전 10시 정식 오픈했다\"라고 19일 밝혔다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-03-19T02:00:00",
+        "modifyDate": "2025-03-19T02:00:00"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 76933,
+        "isShare": 1,
+        "content": {
+          "idx": 117084,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/03/13/522ce7a3-29e5-4ce3-9c86-37c4d0e3abb6.jpg",
+          "title": "봄 시즌 인스파이어 공연·이벤트 총정리…르세라핌부터 한스 짐머까지",
+          "description": null,
+          "seo": "인스파이어 엔터테인먼트 리조트 (대표 첸 시, 이하 인스파이어)가 3월부터 5월까지 ‘인스파이어 아레나’와 ‘디스커버리 파크’에서 진행될 다채로운 공연 및 이벤트 라인업을 공개했다.    인스파이어는 봄 시즌을 맞아 K팝 및 J팝 아티스트의 콘서트뿐만 아니라, 실내 스포츠 경기, 인스파이어 아레나 최초의 클래식 공연, 스탠드업 코미디 등 장르의 경계를 넘어선 다양한 콘텐츠를 준비했다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-03-13T09:36:00",
+        "modifyDate": "2025-03-13T09:36:00"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 76824,
+        "isShare": 1,
+        "content": {
+          "idx": 116702,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/03/11/5b84799b-1714-4696-a7d3-bdbe267b135b.jpg",
+          "title": "아이브 장원영의 눈부신 봄 공항 패션",
+          "description": null,
+          "seo": "그룹 아이브(IVE)의 장원영이 10일 인천국제공항을 통해 프랑스 파리로 출국했다.    장원영은 독보적인 비주얼로 공항에 나타나 많은 주목을 받았으며, 인형 비율에 사랑스러움이 돋보이는 공항패션을 선보여 화제를 모으고 있다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-03-11T02:26:00",
+        "modifyDate": "2025-03-11T02:26:00"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 76595,
+        "isShare": 1,
+        "content": {
+          "idx": 116100,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/03/06/ce0baa4b-9566-4903-912b-f7fd4b082295.jpg",
+          "title": "제로베이스원이 제안하는 간절기 컨버터블 패션",
+          "description": null,
+          "seo": "폰드그룹의 패션브랜드 비비씨어스가 2025 SS 컬렉션 화보를 공개했다.    브랜드 모델 제로베이스원과 함께한 이번 화보는 일상 속 여유로운 휴식의 순간을 감각적으로 담아냈다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-03-06T02:39:50",
+        "modifyDate": "2025-03-06T02:39:50"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 76591,
+        "isShare": 1,
+        "content": {
+          "idx": 116101,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/03/06/57724007-82ab-4f9b-8abc-e8f941601843.jpg",
+          "title": "나나, 고급스러운 '봄의 공항 패션'",
+          "description": null,
+          "seo": "배우 나나가 고급스러운 공항 패션을 선보였다.    나나는 5일 오전, 이자벨마랑(ISABEL MARANT) 쇼 참석을 위해 인천국제공항으로 출국했다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-03-06T02:20:00",
+        "modifyDate": "2025-03-06T02:20:00"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 74568,
+        "isShare": 1,
+        "content": {
+          "idx": 111079,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/01/13/7e7d4d08-6042-406d-8fed-aa29de461b04.png",
+          "title": "이호원, 오는 2월 14일 日 단독 팬미팅 개최…팬들과 행복한 밸런타인데이 예고\n",
+          "description": null,
+          "seo": "배우 이호원이 팬들과 함께 밸런타인데이를 맞이한다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-01-13T02:33:46",
+        "modifyDate": "2025-01-13T02:33:46"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 74352,
+        "isShare": 1,
+        "content": {
+          "idx": 110682,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2025/01/06/ffe4f058-9386-43e4-918e-8397e8e84a91.png",
+          "title": "넥스지(NEXZ), 미니 1집 ‘NALLINA’ 전작에 이어 초동 10만 장 돌파…대세 인기 입증\n",
+          "description": null,
+          "seo": "그룹 넥스지 (NEXZ)가 미니 1집 ‘NALLINA’로 초동 10만 장을 돌파하며 한터차트 브론즈 인증패를 수상했다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2025-01-06T07:19:57",
+        "modifyDate": "2025-01-06T07:19:57"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 72537,
+        "isShare": 1,
+        "content": {
+          "idx": 108021,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/11/20/810a42e3-0a0a-4af4-8b98-bf195ab5c6d6.png",
+          "title": "옹성우, 애니메이션 ‘니코: 오로라 원정대의 모험’ 더빙 참여…전역 후 첫 복귀작\n",
+          "description": null,
+          "seo": "배우 옹성우가 데뷔 첫 애니메이션 더빙연기에 도전한다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-11-20T06:58:45",
+        "modifyDate": "2024-11-20T06:58:45"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 72458,
+        "isShare": 1,
+        "content": {
+          "idx": 107910,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/11/18/3c855041-5042-439c-a58b-73d35a382c38.png",
+          "title": "‘결혼해YOU’ 구준회, 압도적 캐릭터 소화력 자랑…강렬한 첫 등장\n",
+          "description": null,
+          "seo": "그룹 아이콘(iKON) 구준회가 올라운더 행보에 나섰다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-11-18T06:34:48",
+        "modifyDate": "2024-11-18T06:34:48"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71992,
+        "isShare": 1,
+        "content": {
+          "idx": 107352,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/11/07/523f15d8-00fc-4e05-b95c-fc1f3aa209ca.png",
+          "title": "고스트나인 이진우, 첫 정극 ‘나미브’서 고현정과 연기 호흡…훈훈한 모자 케미\n",
+          "description": null,
+          "seo": "그룹 고스트나인(GHOST9) 이진우가 첫 정극에 도전한다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-11-07T07:49:04",
+        "modifyDate": "2024-11-07T07:49:04"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71673,
+        "isShare": 1,
+        "content": {
+          "idx": 106959,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/31/ae2052e7-c64b-44b5-8aae-2d60a4ce0f0b.png",
+          "title": "탕준상, ‘사관은 논한다’로 5년만 사극 컴백…다채로운 열연 예고\n",
+          "description": null,
+          "seo": "배우 탕준상이 다채로운 열연을 펼친다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-31T07:04:06",
+        "modifyDate": "2024-10-31T07:04:06"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71606,
+        "isShare": 1,
+        "content": {
+          "idx": 106881,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/30/58669871-e477-4d31-8fd0-3c7070a7fc38.jfif",
+          "title": "배우 공민정, 판타지오와 전속계약 체결 이어 차기작 발표 ‘겹경사’\n",
+          "description": null,
+          "seo": "배우 공민정이 판타지오와 동행을 시작한다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-30T06:31:05",
+        "modifyDate": "2024-10-30T06:31:05"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71605,
+        "isShare": 1,
+        "content": {
+          "idx": 106880,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/30/78818b70-2028-4e2f-84c3-e737174f8466.jfif",
+          "title": "이재욱, 맨 노블레스 11월호 커버 화보 공개…진솔한 인터뷰 눈길\n",
+          "description": null,
+          "seo": "배우 이재욱이 고품격 비주얼로 시선을 사로잡았다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-30T06:29:25",
+        "modifyDate": "2024-10-30T06:29:25"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71494,
+        "isShare": 1,
+        "content": {
+          "idx": 106712,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/28/224e0923-9411-4780-b1c4-fd9c6390fc9a.jpg",
+          "title": "오마이걸 승희, '정년이' 감초 역할로 시선 강탈",
+          "description": null,
+          "seo": "오마이걸 승희",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-28T04:56:05",
+        "modifyDate": "2024-10-28T04:56:05"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71355,
+        "isShare": 1,
+        "content": {
+          "idx": 106554,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/25/f82fd93e-9e87-494e-8493-8333b0a8939f.png",
+          "title": "‘커리어 하이’ 이찬원, 미니 2집 ‘bright;燦’ 한터차트 골드 인증패 수상 (한터차트 공식)",
+          "description": null,
+          "seo": "가수 이찬원 (LEE CHAN WON)이 한터차트 골드 인증패를 수상했다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-25T05:58:56",
+        "modifyDate": "2024-10-25T05:58:56"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 71143,
+        "isShare": 1,
+        "content": {
+          "idx": 106299,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/22/3d8efe9b-89ca-40bd-9edc-5155aa89bf01.png",
+          "title": "정해인, 하퍼스 바자 11월호 화보 공개…댄디한 가을 남자 변신\n",
+          "description": null,
+          "seo": "배우 정해인이 댄디한 가을 남자로 변신했다.",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 79,
+          "client": null,
+          "userName": "이동민",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-22T04:54:39",
+        "modifyDate": "2024-10-22T04:54:39"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 70770,
+        "isShare": 1,
+        "content": {
+          "idx": 105649,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/10/14/68eaaa0b-b89e-408b-9969-86108034ba7c.jpg",
+          "title": "개그맨 이진호, 불법도박 사실 인정…BTS 지민에게도 1억 원 빌려",
+          "description": null,
+          "seo": "개그맨 이진호, 불법도박 사실 인정…BTS 지민에게도 1억 원 빌려",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-10-14T05:02:48",
+        "modifyDate": "2024-10-14T05:02:48"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 70121,
+        "isShare": 1,
+        "content": {
+          "idx": 104906,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/09/27/5fa12019-4d1b-448f-8fd1-0d0d2f728256.jpg",
+          "title": "한터글로벌, '후즈팬카페 동대문점' 오픈…K팝과 K푸드 확산 기대",
+          "description": null,
+          "seo": "한터글로벌, '후즈팬카페 동대문점' 오픈…K팝과 K푸드 확산 기대",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-09-27T05:10:51",
+        "modifyDate": "2024-09-27T05:10:51"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 69973,
+        "isShare": 1,
+        "content": {
+          "idx": 104693,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/09/24/612483cf-31fd-482a-a3b0-601112d3f334.jpg",
+          "title": "[한터인터뷰] 마술사 유호진의 ‘걸작(OPUS)’을 향한 여정",
+          "description": null,
+          "seo": "[한터인터뷰] 마술사 유호진의 ‘걸작(OPUS)’을 향한 여정",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-09-24T09:43:30",
+        "modifyDate": "2024-09-24T09:43:30"
+      }
+    },
+    {
+      "meta": {
+        "password": null,
+        "description": null,
+        "editType": null,
+        "writeDate": null,
+        "language": "KO",
+        "originIdx": 69944,
+        "isShare": 1,
+        "content": {
+          "idx": 104652,
+          "version": 0,
+          "thumbnail": "https://resource.hanteonews.com/content/post/2024/09/24/f58ba264-0618-4d84-a36d-9516122a7b0a.jpg",
+          "title": "소주연·홍우진, 메리고라운드컴퍼니와 전속계약…\"기쁘다\"",
+          "description": null,
+          "seo": "소주연·홍우진, 메리고라운드컴퍼니와 전속계약…\"기쁘다\"",
+          "extraJson": null,
+          "externalLink": null,
+          "writeDate": null,
+          "user": null,
+          "thumbnailWidth": 0,
+          "thumbnailHeight": 0
+        },
+        "user": {
+          "idx": 99,
+          "client": null,
+          "userName": "최현정",
+          "userEmail": "news@hanteo.com",
+          "extraJson": "{\"badge\": \"/hanteonews/badge/reporter_badge.svg\"}",
+          "listOfParent": null,
+          "listOfChild": null
+        },
+        "startDate": "2024-09-24T02:21:47",
+        "modifyDate": "2024-09-24T02:21:47"
+      }
+    }
+  ]
+}

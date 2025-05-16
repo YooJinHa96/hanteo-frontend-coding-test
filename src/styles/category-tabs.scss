@@ -1,0 +1,32 @@
+@use "./_variables.scss" as vars;
+
+.category-tabs {
+  display: flex;
+  background: #ffb6b9;
+  border-bottom: 2px solid #ffb6b9;
+  height: 48px;
+  .swiper {
+    width: 100%;
+  }
+  button {
+    flex: 1;
+    background: #ffb6b9;
+    border: none;
+    outline: none;
+    font-family: "Apple SD Gothic Neo", "Noto Sans KR", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #222;
+    margin: 0;
+    height: 100%;
+    cursor: pointer;
+    border-radius: 0;
+    transition: background 0.2s, color 0.2s;
+    &.active {
+      color: #fff;
+
+      position: relative;
+      z-index: 2;
+    }
+  }
+}

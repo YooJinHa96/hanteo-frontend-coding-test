@@ -1,0 +1,13 @@
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import CategoryPage from "../features/category/CategoryPage";
+
+export default function Router() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Navigate to="/category/1" />} />
+        <Route path="/category/:categoryId" element={<CategoryPage />} />
+      </Routes>
+    </BrowserRouter>
+  );
+}
